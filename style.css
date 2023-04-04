@@ -5360,6 +5360,8 @@ ul.course-feature2 li:before {
   -ms-transition: all 0.5s ease-out;
   -o-transition: all 0.5s ease-out;
   transition: all 0.5s ease-out;
+  width: 100%;
+  height: 100vh;
 }
 .courses-box1 .single-item-wrapper .courses-img-wrapper {
   position: relative;
@@ -5481,6 +5483,7 @@ ul.course-feature2 li:before {
 }
 .courses-box2 .single-item-wrapper .courses-img-wrapper img {
   width: 100%;
+  height: 50vh;
 }
 .courses-box2 .single-item-wrapper .courses-img-wrapper:before {
   background-color: rgba(253, 200, 0, 0.8);
